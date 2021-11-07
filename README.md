@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daglii
 
-- https://github.com/daglii/graylog-spring Microservice Centralized Logging with Graylog
+- https://github.com/daglii/graylog-spring Centralized Microservice Logging with Graylog
 
 
 <!---
