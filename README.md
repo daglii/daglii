@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @daglii
+👋 Hi, I’m @daglii 
+
+Take a look at my projects:
 
 - Centralized Microservice Logging with Graylog [Graylog with Spring](https://github.com/daglii/graylog-spring)
 - GRPC Communication between Microservices [Grpc Server](https://github.com/daglii/spring-grpc-server) - [Grpc Client](https://github.com/daglii/spring-grpc-client)
